@@ -15,7 +15,7 @@
 /*configure ADC resolution, options:	1- EIGHT_BITS
  * 										2- TEN_BITS
  * */
-#define ADC_u8RESOLUTION				TEN_BITS
+#define ADC_u8RESOLUTION				EIGHT_BITS
 
 #define ADC_u32TIMEOUT_COUNT			5000UL
 
